@@ -18,7 +18,7 @@ export default function Features() {
                     </svg>
                     Push to deploy.
                   </dt>
-                  <dd className="inline">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</dd>
+                  <dd className="inline">Lorem ipsum, dolor sit asssmet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</dd>
                 </div>
                 <div className="relative pl-9">
                   <dt className="inline font-semibold text-gray-900">
